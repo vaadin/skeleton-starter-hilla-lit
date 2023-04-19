@@ -1,8 +1,8 @@
 import "@vaadin/button";
 
 import "@vaadin/text-field";
+import { HelloEndpoint } from "Frontend/generated/endpoints";
 
-import { HelloWorldEndpoint } from "Frontend/generated/endpoints.js";
 import { LitElement, html } from "lit";
 import { customElement, state } from "lit/decorators.js";
 
@@ -27,7 +27,7 @@ export class MainLayout extends LitElement {
     `;
   }
   async sayHello() {
-    const response = await HelloWorldEndpoint.sayHello(this.name || "");
+    const response = await HelloEndpoint.sayHello(this.name || "");
     this.responses = [response, ...this.responses];
   }
 }
