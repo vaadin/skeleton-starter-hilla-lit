@@ -85,9 +85,7 @@
     "@vaadin/vertical-layout": "24.1.0-alpha8",
     "@vaadin/virtual-list": "24.1.0-alpha8",
     "construct-style-sheets-polyfill": "3.1.0",
-    "date-fns": "2.29.3",
     "lit": "2.6.1",
-    "mobile-drag-drop": "2.3.0-rc.2",
     "mobx": "^6.3.5"
   },
   "devDependencies": {
@@ -191,9 +189,7 @@
     "@hilla/frontend": "$@hilla/frontend",
     "@hilla/form": "$@hilla/form",
     "@hilla/generator-typescript-plugin-backbone": "$@hilla/generator-typescript-plugin-backbone",
-    "@hilla/generator-typescript-cli": "$@hilla/generator-typescript-cli",
-    "date-fns": "$date-fns",
-    "mobile-drag-drop": "$mobile-drag-drop"
+    "@hilla/generator-typescript-cli": "$@hilla/generator-typescript-cli"
   },
   "vaadin": {
     "dependencies": {
@@ -278,9 +274,7 @@
       "@vaadin/vertical-layout": "24.1.0-alpha8",
       "@vaadin/virtual-list": "24.1.0-alpha8",
       "construct-style-sheets-polyfill": "3.1.0",
-      "date-fns": "2.29.3",
-      "lit": "2.6.1",
-      "mobile-drag-drop": "2.3.0-rc.2"
+      "lit": "2.6.1"
     },
     "devDependencies": {
       "@rollup/plugin-replace": "5.0.2",
@@ -298,6 +292,6 @@
       "workbox-core": "6.5.4",
       "workbox-precaching": "6.5.4"
     },
-    "hash": "6b30ffca18ee13eb015029547f9a18650dc6436896967b6b5f4e730a2416b617"
+    "hash": "c879c00781ae516b5cc041a676c5c0f32789a9939b73d0d2b690d2bc887af0ae"
   }
 }
