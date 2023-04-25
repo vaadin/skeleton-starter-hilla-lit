@@ -47,8 +47,3 @@ out/
 # Maven wrapper
 .mvn/
 mvnw
-
-# The following are auto-generated if missing, but they should be added to source control if customized.
-tsconfig.json
-types.d.ts
-index.html
