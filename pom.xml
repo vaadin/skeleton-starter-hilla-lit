@@ -99,12 +99,12 @@
             <dependencies>
                 <!-- Exclude development dependencies from production -->
                 <dependency>
-                    <groupId>com.vaadin</groupId>
-                    <artifactId>vaadin-core</artifactId>
+                    <groupId>dev.hilla</groupId>
+                    <artifactId>hilla</artifactId>
                     <exclusions>
                         <exclusion>
-                            <groupId>com.vaadin</groupId>
-                            <artifactId>vaadin-dev</artifactId>
+                            <groupId>dev.hilla</groupId>
+                            <artifactId>hilla-dev</artifactId>
                         </exclusion>
                     </exclusions>
                 </dependency>
