@@ -18,7 +18,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.0.6</version>
+        <version>3.0.7</version>
     </parent>
 
     <dependencyManagement>
@@ -99,12 +99,12 @@
             <dependencies>
                 <!-- Exclude development dependencies from production -->
                 <dependency>
-                    <groupId>com.vaadin</groupId>
-                    <artifactId>vaadin-core</artifactId>
+                    <groupId>dev.hilla</groupId>
+                    <artifactId>hilla</artifactId>
                     <exclusions>
                         <exclusion>
-                            <groupId>com.vaadin</groupId>
-                            <artifactId>vaadin-dev</artifactId>
+                            <groupId>dev.hilla</groupId>
+                            <artifactId>hilla-dev</artifactId>
                         </exclusion>
                     </exclusions>
                 </dependency>
