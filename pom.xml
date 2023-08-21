@@ -12,7 +12,6 @@
     <properties>
         <java.version>17</java.version>
         <hilla.version>2.1.5</hilla.version>
-        <selenium.version>4.11.0</selenium.version>
     </properties>
 
     <parent>
@@ -51,16 +50,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
             <optional>true</optional>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.vaadin</groupId>
-            <artifactId>vaadin-testbench-junit5</artifactId>
-            <scope>test</scope>
         </dependency>
     </dependencies>
 
