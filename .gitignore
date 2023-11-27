@@ -43,7 +43,3 @@ out/
 
 # VS Code
 .vscode/
-
-# Maven wrapper
-.mvn/
-mvnw
