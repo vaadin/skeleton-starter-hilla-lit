@@ -12,7 +12,7 @@
 
     <properties>
         <java.version>17</java.version>
-        <hilla.version>2.5.0.alpha9</hilla.version>
+        <hilla.version>2.5.0.alpha12</hilla.version>
     </properties>
 
     <parent>
