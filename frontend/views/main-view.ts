@@ -10,7 +10,7 @@ import { customElement, state } from "lit/decorators.js";
 export class MainLayout extends LitElement {
   name?: string;
   @state()
-  responses: any[] = [];
+  accessor responses: any[] = [];
 
   render() {
     return html`
