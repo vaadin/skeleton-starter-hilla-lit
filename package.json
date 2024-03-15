@@ -73,6 +73,7 @@
     "@vaadin/vaadin-development-mode-detector": "2.0.6",
     "@vaadin/vaadin-lumo-styles": "24.4.0-alpha16",
     "@vaadin/vaadin-material-styles": "24.4.0-alpha16",
+    "@vaadin/vaadin-themable-mixin": "24.4.0-alpha16",
     "@vaadin/vaadin-usage-statistics": "2.1.2",
     "@vaadin/vertical-layout": "24.4.0-alpha16",
     "@vaadin/virtual-list": "24.4.0-alpha16",
@@ -180,6 +181,7 @@
       "@vaadin/vaadin-development-mode-detector": "2.0.6",
       "@vaadin/vaadin-lumo-styles": "24.4.0-alpha16",
       "@vaadin/vaadin-material-styles": "24.4.0-alpha16",
+      "@vaadin/vaadin-themable-mixin": "24.4.0-alpha16",
       "@vaadin/vaadin-usage-statistics": "2.1.2",
       "@vaadin/vertical-layout": "24.4.0-alpha16",
       "@vaadin/virtual-list": "24.4.0-alpha16",
@@ -215,7 +217,7 @@
       "workbox-core": "7.0.0",
       "workbox-precaching": "7.0.0"
     },
-    "hash": "fefad2c86f3cfbac0526fd3775a8981fc198947fbcb33223bb7b1503b4485f77"
+    "hash": "f3d9641aec3f699e697ea1cbb06178a469cc8bd8ef441278fe52ec86f5b7985c"
   },
   "overrides": {
     "@vaadin/bundles": "$@vaadin/bundles",
@@ -304,6 +306,7 @@
     "@vaadin/hilla-generator-plugin-backbone": "$@vaadin/hilla-generator-plugin-backbone",
     "@adobe/lit-mobx": "$@adobe/lit-mobx",
     "mobx": "$mobx",
-    "@vaadin/hilla-frontend": "$@vaadin/hilla-frontend"
+    "@vaadin/hilla-frontend": "$@vaadin/hilla-frontend",
+    "@vaadin/vaadin-themable-mixin": "$@vaadin/vaadin-themable-mixin"
   }
 }
