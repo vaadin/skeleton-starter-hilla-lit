@@ -96,7 +96,7 @@
     "@rolldown/plugin-babel": "0.2.3",
     "@rollup/plugin-replace": "6.0.3",
     "@rollup/pluginutils": "5.4.0",
-    "@types/node": "25.9.3",
+    "@types/node": "25.9.4",
     "@vaadin/hilla-generator-cli": "25.2.0",
     "@vaadin/hilla-generator-core": "25.2.0",
     "@vaadin/hilla-generator-plugin-backbone": "25.2.0",
@@ -108,7 +108,7 @@
     "@vaadin/hilla-generator-plugin-subtypes": "25.2.0",
     "@vaadin/hilla-generator-plugin-transfertypes": "25.2.0",
     "@vaadin/hilla-generator-utils": "25.2.0",
-    "@vitejs/plugin-react": "6.0.2",
+    "@vitejs/plugin-react": "6.0.3",
     "magic-string": "0.30.21",
     "rollup-plugin-brotli": "3.1.0",
     "rollup-plugin-visualizer": "7.0.1",
@@ -116,7 +116,7 @@
     "transform-ast": "2.4.4",
     "typescript": "6.0.3",
     "vite": "8.0.16",
-    "vite-plugin-checker": "0.14.1"
+    "vite-plugin-checker": "0.14.4"
   },
   "overrides": {
     "@adobe/lit-mobx": "$@adobe/lit-mobx",
@@ -297,7 +297,7 @@
       "@rolldown/plugin-babel": "0.2.3",
       "@rollup/plugin-replace": "6.0.3",
       "@rollup/pluginutils": "5.4.0",
-      "@types/node": "25.9.3",
+      "@types/node": "25.9.4",
       "@vaadin/hilla-generator-cli": "25.2.0",
       "@vaadin/hilla-generator-core": "25.2.0",
       "@vaadin/hilla-generator-plugin-backbone": "25.2.0",
@@ -309,7 +309,7 @@
       "@vaadin/hilla-generator-plugin-subtypes": "25.2.0",
       "@vaadin/hilla-generator-plugin-transfertypes": "25.2.0",
       "@vaadin/hilla-generator-utils": "25.2.0",
-      "@vitejs/plugin-react": "6.0.2",
+      "@vitejs/plugin-react": "6.0.3",
       "magic-string": "0.30.21",
       "rollup-plugin-brotli": "3.1.0",
       "rollup-plugin-visualizer": "7.0.1",
@@ -317,9 +317,9 @@
       "transform-ast": "2.4.4",
       "typescript": "6.0.3",
       "vite": "8.0.16",
-      "vite-plugin-checker": "0.14.1"
+      "vite-plugin-checker": "0.14.4"
     },
-    "hash": "838f13f89ed1a54538f16f15c785dc0f09a106400ef0815d5847ad9af5516c91",
+    "hash": "5d536d3991107585aba881622077e98e1f4040098243b2f93b85a5ec2c2d3447",
     "overrides": {
       "@adobe/lit-mobx": "$@adobe/lit-mobx",
       "@vaadin/a11y-base": "$@vaadin/a11y-base",
